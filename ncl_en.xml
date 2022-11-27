@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ClassificationTexts language="en" dateInForce="2023-01-01" dateOfGeneration="2022-05-18" edition="12" version="2023">
+    <ClassesTexts>
+        <ClassTexts id="U241825" idRef="U241824" ncl="1">
+            <Heading>
+                <HeadingItem id="U241914">Chemicals for use in industry, science and photography, as well as in agriculture, horticulture and forestry</HeadingItem>
+                <HeadingItem id="U241915">unprocessed artificial resins, unprocessed plastics</HeadingItem>
+                <HeadingItem id="U241917">fire extinguishing and fire prevention compositions</HeadingItem>
+                <HeadingItem id="U241918">tempering and soldering preparations</HeadingItem>
+                <HeadingItem id="U241920">substances for tanning animal skins and hides</HeadingItem>
+                <HeadingItem id="U241921">adhesives for use in industry</HeadingItem>
+                <HeadingItem id="U310001">putties and other paste fillers</HeadingItem>
+                <HeadingItem id="U310002">compost, manures, fertilizers</HeadingItem>
+                <HeadingItem id="U310003">biological preparations for use in industry and science</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242118">
+                <Introduction id="U242162">chemical products for use in industry, science and agriculture, including those which go to the making of products belonging to other classes.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U310004">sensitized paper</Include>
+                    <Include id="U310005">tyre repairing compositions</Include>
+                    <Include id="U242198">salt for preserving, other than for foodstuffs</Include>
+                    <Include id="U242199">certain additives for use in the food industry, for example, pectin, lecithin, enzymes and chemical preservatives</Include>
+                    <Include id="U310006">certain ingredients for use in the manufacture of cosmetics and pharmaceuticals, for example, vitamins, preservatives and antioxidants</Include>
+                    <Include id="U310007">certain filtering materials, for example, mineral substances, vegetable substances and ceramic materials in particulate form</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242316">raw natural resins , semi-processed resins </Exclude>
+                    <Exclude id="U242317">chemical preparations for medical or veterinary purposes </Exclude>
+                    <Exclude id="U242318">fungicides, herbicides and preparations for destroying vermin </Exclude>
+                    <Exclude id="U242319">adhesives for stationery or household purposes </Exclude>
+                    <Exclude id="U242320">salt for preserving foodstuffs </Exclude>
+                    <Exclude id="U242321">straw mulch </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241827" idRef="U241826" ncl="2">
+            <Heading>
+                <HeadingItem id="U241922">Paints, varnishes, lacquers</HeadingItem>
+                <HeadingItem id="U241923">preservatives against rust and against deterioration of wood</HeadingItem>
+                <HeadingItem id="U241924">colorants, dyes</HeadingItem>
+                <HeadingItem id="U310008">inks for printing, marking and engraving</HeadingItem>
+                <HeadingItem id="U241926">raw natural resins</HeadingItem>
+                <HeadingItem id="U241927">metals in foil and powder form for use in painting, decorating, printing and art</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242119">
+                <Introduction id="U242163">paints, colorants and preparations used for protection against corrosion.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242200">paints, varnishes and lacquers for industry, handicrafts and arts</Include>
+                    <Include id="U310009">thinners, thickeners, fixatives and siccatives for paints, varnishes and lacquers</Include>
+                    <Include id="U310010">mordants for wood and leather</Include>
+                    <Include id="U310011">anti-rust oils and oils for the preservation of wood</Include>
+                    <Include id="U242201">dyestuffs for clothing</Include>
+                    <Include id="U242202">colorants for foodstuffs and beverages</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242322">unprocessed artificial resins , semi-processed resins </Exclude>
+                    <Exclude id="U310012">mordants for metals </Exclude>
+                    <Exclude id="U242323">laundry blueing </Exclude>
+                    <Exclude id="U242324">cosmetic dyes </Exclude>
+                    <Exclude id="U242325">paint boxes (articles for use in school) </Exclude>
+                    <Exclude id="U310013">inks for stationery purposes </Exclude>
+                    <Exclude id="U242326">insulating paints and varnishes </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241829" idRef="U241828" ncl="3">
+            <Heading>
+                <HeadingItem id="U310014">Non-medicated cosmetics and toiletry preparations</HeadingItem>
+                <HeadingItem id="U310015">non-medicated dentifrices</HeadingItem>
+                <HeadingItem id="U310016">perfumery, essential oils</HeadingItem>
+                <HeadingItem id="U241928">bleaching preparations and other substances for laundry use</HeadingItem>
+                <HeadingItem id="U241929">cleaning, polishing, scouring and abrasive preparations</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242120">
+                <Introduction id="U242164">non-medicated toiletry preparations, as well as cleaning preparations for use in the home and other environments.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U310017">sanitary preparations being toiletries</Include>
+                    <Include id="U310018">tissues impregnated with cosmetic lotions</Include>
+                    <Include id="U242203">deodorants for human beings or for animals</Include>
+                    <Include id="U242204">room fragrancing preparations</Include>
+                    <Include id="U310019">nail art stickers</Include>
+                    <Include id="U310020">polishing wax</Include>
+                    <Include id="U242205">sandpaper</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U310021">ingredients for use in the manufacture of cosmetics, for example, vitamins, preservatives and antioxidants </Exclude>
+                    <Exclude id="U310022">degreasing preparations for use in manufacturing processes </Exclude>
+                    <Exclude id="U242327">chemical chimney cleaners </Exclude>
+                    <Exclude id="U242329">deodorants, other than for human beings or for animals </Exclude>
+                    <Exclude id="U300164">medicated shampoos, soaps, lotions and dentifrices </Exclude>
+                    <Exclude id="U242330">emery boards, emery files, sharpening stones and grindstones (hand tools) </Exclude>
+                    <Exclude id="U310023">cosmetic and cleaning instruments, for example, make-up brushes , cloths, pads and rags for cleaning </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241831" idRef="U241830" ncl="4">
+            <Heading>
+                <HeadingItem id="U241933">Industrial oils and greases, wax</HeadingItem>
+                <HeadingItem id="U241934">lubricants</HeadingItem>
+                <HeadingItem id="U241935">dust absorbing, wetting and binding compositions</HeadingItem>
+                <HeadingItem id="U241936">fuels and illuminants</HeadingItem>
+                <HeadingItem id="U241937">candles and wicks for lighting</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242121">
+                <Introduction id="U242165">industrial oils and greases, fuels and illuminants.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U310024">oils for the preservation of masonry or of leather</Include>
+                    <Include id="U310025">raw wax, industrial wax</Include>
+                    <Include id="U310026">electrical energy</Include>
+                    <Include id="U310027">motor fuels, biofuels</Include>
+                    <Include id="U310028">non-chemical additives for fuels</Include>
+                    <Include id="U310029">wood for use as fuel</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242331">certain special industrial oils and greases, for example, oils for tanning leather , oils for the preservation of wood, anti-rust oils and greases , essential oils </Exclude>
+                    <Exclude id="U310030">massage candles for cosmetic purposes  and medicated massage candles </Exclude>
+                    <Exclude id="U310031">certain special waxes, for example, grafting wax for trees , tailors' wax, polishing wax, depilatory wax , dental wax , sealing wax </Exclude>
+                    <Exclude id="U318000">wicks adapted for oil stoves  and for cigarette lighters </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241833" idRef="U241832" ncl="5">
+            <Heading>
+                <HeadingItem id="U241938">Pharmaceuticals, medical and veterinary preparations</HeadingItem>
+                <HeadingItem id="U241939">sanitary preparations for medical purposes</HeadingItem>
+                <HeadingItem id="U241940">dietetic food and substances adapted for medical or veterinary use, food for babies</HeadingItem>
+                <HeadingItem id="U241941">dietary supplements for human beings and animals</HeadingItem>
+                <HeadingItem id="U241942">plasters, materials for dressings</HeadingItem>
+                <HeadingItem id="U241943">material for stopping teeth, dental wax</HeadingItem>
+                <HeadingItem id="U241944">disinfectants</HeadingItem>
+                <HeadingItem id="U241945">preparations for destroying vermin</HeadingItem>
+                <HeadingItem id="U241946">fungicides, herbicides</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242122">
+                <Introduction id="U242166">pharmaceuticals and other preparations for medical or veterinary purposes.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242206">sanitary preparations for personal hygiene, other than toiletries</Include>
+                    <Include id="U242207">diapers for babies and for incontinence</Include>
+                    <Include id="U242208">deodorants, other than for human beings or for animals</Include>
+                    <Include id="U300165">medicated shampoos, soaps, lotions and dentifrices</Include>
+                    <Include id="U242209">dietary supplements intended to supplement a normal diet or to have health benefits</Include>
+                    <Include id="U242210">meal replacements and dietetic food and beverages adapted for medical or veterinary use</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U310032">ingredients for use in the manufacture of pharmaceuticals, for example, vitamins, preservatives and antioxidants </Exclude>
+                    <Exclude id="U242332">sanitary preparations being non-medicated toiletries </Exclude>
+                    <Exclude id="U242333">deodorants for human beings or for animals </Exclude>
+                    <Exclude id="U341286">support bandages, orthopaedic bandages </Exclude>
+                    <Exclude id="U242335">meal replacements and dietetic food and beverages not specified as being for medical or veterinary use, which should be classified in the appropriate food or beverage classes, for example, low-fat potato crisps , high-protein cereal bars , isotonic beverages </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241835" idRef="U241834" ncl="6">
+            <Heading>
+                <HeadingItem id="U241947">Common metals and their alloys, ores</HeadingItem>
+                <HeadingItem id="U241948">metal materials for building and construction</HeadingItem>
+                <HeadingItem id="U241949">transportable buildings of metal</HeadingItem>
+                <HeadingItem id="U241951">non-electric cables and wires of common metal</HeadingItem>
+                <HeadingItem id="U241952">small items of metal hardware</HeadingItem>
+                <HeadingItem id="U300166">metal containers for storage or transport</HeadingItem>
+                <HeadingItem id="U241954">safes</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242123">
+                <Introduction id="U242167">unwrought and partly wrought common metals, including ores, as well as certain goods made of common metals.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U300167">metals in foil or powder form for further processing, for example, for 3D printers</Include>
+                    <Include id="U300168">metal building materials, for example, materials of metal for railway tracks, pipes and tubes of metal</Include>
+                    <Include id="U300169">small items of metal hardware, for example, bolts, screws, nails, furniture casters, window fasteners</Include>
+                    <Include id="U300170">transportable buildings or structures of metal, for example, prefabricated houses, swimming pools, cages for wild animals, skating rinks</Include>
+                    <Include id="U336054">certain dispensing apparatus of metal, automatic or non-automatic, for example, towel dispensers, queue ticket dispensers, dispensers for dog waste bags, toilet paper dispensers</Include>
+                    <Include id="U300171">certain goods made of common metals not otherwise classified by function or purpose, for example, all-purpose boxes of common metal, statues, busts and works of art of common metal</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242336">metals and ores used as chemicals in industry or scientific research for their chemical properties, for example, bauxite, mercury, antimony, alkaline and alkaline-earth metals </Exclude>
+                    <Exclude id="U242338">metals in foil and powder form for use in painting, decorating, printing and art </Exclude>
+                    <Exclude id="U336051">certain dispensing apparatus that are classified according to their function or purpose, for example, fluid dispensing machines for industrial use , ticket dispensing terminals, electronic , dosage dispensers for medical use , adhesive tape dispensers </Exclude>
+                    <Exclude id="U300172">electric cables  and non-electric cables and ropes, not of metal </Exclude>
+                    <Exclude id="U300173">pipes being parts of sanitary installations , flexible pipes, tubes and hoses, not of metal  and rigid pipes, not of metal </Exclude>
+                    <Exclude id="U300174">cages for household pets </Exclude>
+                    <Exclude id="U242339">certain goods made of common metals that are classified according to their function or purpose, for example, hand tools, hand-operated , paper clips , furniture , kitchen utensils , household containers </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241837" idRef="U241836" ncl="7">
+            <Heading>
+                <HeadingItem id="U241956">Machines, machine tools, power-operated tools</HeadingItem>
+                <HeadingItem id="U241957">motors and engines, except for land vehicles</HeadingItem>
+                <HeadingItem id="U241958">machine coupling and transmission components, except for land vehicles</HeadingItem>
+                <HeadingItem id="U241959">agricultural implements, other than hand-operated hand tools</HeadingItem>
+                <HeadingItem id="U241960">incubators for eggs</HeadingItem>
+                <HeadingItem id="U241961">automatic vending machines</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242124">
+                <Introduction id="U242168">machines and machine tools, motors and engines.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242212">parts of motors and engines of all kinds, for example, starters, mufflers and cylinders for motors and engines of any type</Include>
+                    <Include id="U242213">electric cleaning and polishing apparatus, for example, electric shoe polishers, electric machines and apparatus for carpet shampooing and vacuum cleaners</Include>
+                    <Include id="U310033">3D printers</Include>
+                    <Include id="U310034">industrial robots</Include>
+                    <Include id="U310035">certain special vehicles not for transportation purposes, for example, road sweeping machines, road making machines, bulldozers, snow ploughs, as well as rubber tracks as parts of those vehicles' crawlers</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242341">hand tools and implements, hand-operated </Exclude>
+                    <Exclude id="U310036">humanoid robots with artificial intelligence, laboratory robots, teaching robots, security surveillance robots , surgical robots , robotic cars , robotic drums , toy robots </Exclude>
+                    <Exclude id="U242342">motors and engines for land vehicles </Exclude>
+                    <Exclude id="U310037">treads for vehicles, as well as tyres for all kinds of vehicle wheels </Exclude>
+                    <Exclude id="U310038">certain special machines, for example, automated teller machines , respirators for artificial respiration , refrigerating apparatus and machines </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241839" idRef="U241838" ncl="8">
+            <Heading>
+                <HeadingItem id="U241962">Hand tools and implements, hand-operated</HeadingItem>
+                <HeadingItem id="U241963">cutlery</HeadingItem>
+                <HeadingItem id="U241964">side arms, except firearms</HeadingItem>
+                <HeadingItem id="U241965">razors</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242125">
+                <Introduction id="U242169">hand-operated tools and implements for performing tasks, such as drilling, shaping, cutting and piercing.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U310039">hand-operated agricultural, gardening and landscaping tools</Include>
+                    <Include id="U310040">hand-operated tools for carpenters, artists and other craftspersons, for example, hammers, chisels and gravers</Include>
+                    <Include id="U310041">handles for hand-operated hand tools, such as knives and scythes</Include>
+                    <Include id="U310042">electric and non-electric hand implements for personal grooming and body art, for example, razors, implements for hair curling, tattooing, and for manicure and pedicure</Include>
+                    <Include id="U310043">hand-operated pumps</Include>
+                    <Include id="U242214">table cutlery, such as knives, forks and spoons, including those made of precious metals</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242344">machine tools and implements driven by a motor </Exclude>
+                    <Exclude id="U242345">surgical cutlery </Exclude>
+                    <Exclude id="U310044">pumps for bicycle tyres , pumps specially adapted for use with balls for games </Exclude>
+                    <Exclude id="U242346">side arms being firearms </Exclude>
+                    <Exclude id="U242347">paper knives and paper shredders for office use </Exclude>
+                    <Exclude id="U310045">handles for objects that are classified in various classes according to their function or purpose, for example, walking stick handles, umbrella handles , broom handles </Exclude>
+                    <Exclude id="U310046">serving utensils, for example, sugar tongs, ice tongs, pie servers and serving ladles, and kitchen utensils, for example, mixing spoons, pestles and mortars, nutcrackers and spatulas </Exclude>
+                    <Exclude id="U242348">fencing weapons </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241841" idRef="U241840" ncl="9">
+            <Heading>
+                <HeadingItem id="U241966">Scientific, research, navigation, surveying, photographic, cinematographic, audiovisual, optical, weighing, measuring, signalling, detecting, testing, inspecting, life-saving and teaching apparatus and instruments</HeadingItem>
+                <HeadingItem id="U241967">apparatus and instruments for conducting, switching, transforming, accumulating, regulating or controlling the distribution or use of electricity</HeadingItem>
+                <HeadingItem id="U241968">apparatus and instruments for recording, transmitting, reproducing or processing sound, images or data</HeadingItem>
+                <HeadingItem id="U241969">recorded and downloadable media, computer software, blank digital or analogue recording and storage media</HeadingItem>
+                <HeadingItem id="U241971">mechanisms for coin-operated apparatus</HeadingItem>
+                <HeadingItem id="U241972">cash registers, calculating devices</HeadingItem>
+                <HeadingItem id="U318001">computers and computer peripheral devices</HeadingItem>
+                <HeadingItem id="U318002">diving suits, divers' masks, ear plugs for divers, nose clips for divers and swimmers, gloves for divers, breathing apparatus for underwater swimming</HeadingItem>
+                <HeadingItem id="U241974">fire-extinguishing apparatus</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242126">
+                <Introduction id="U318003">apparatus and instruments for scientific or research purposes, audiovisual and information technology equipment, as well as safety and life-saving equipment.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242216">apparatus and instruments for scientific research in laboratories</Include>
+                    <Include id="U318004">training apparatus and simulators, for example, resuscitation mannequins, simulators for the steering and control of vehicles</Include>
+                    <Include id="U242217">apparatus and instruments for controlling and monitoring aircraft, watercraft and unmanned vehicles, for example, navigational instruments, transmitters, compasses for measuring, GPS apparatus, automatic steering apparatus for vehicles</Include>
+                    <Include id="U318005">safety and security apparatus and instruments, for example, safety nets, signalling lights, traffic-light apparatus, fire engines, sound alarms, security tokens being encryption devices</Include>
+                    <Include id="U318006">clothing that protects against serious or life-threatening injuries, for example, clothing for protection against accidents, irradiation and fire, bullet-proof clothing, protective helmets, head guards for sports, mouth guards for sports, protective suits for aviators, knee-pads for workers</Include>
+                    <Include id="U318007">optical apparatus and instruments, for example, eyeglasses, contact lenses, magnifying glasses, mirrors for inspecting work, peepholes</Include>
+                    <Include id="U318008">magnets</Include>
+                    <Include id="U318009">smartwatches, wearable activity trackers</Include>
+                    <Include id="U318010">joysticks for use with computers, other than for video games, virtual reality headsets, smartglasses</Include>
+                    <Include id="U318011">eyeglass cases, cases for smartphones, cases especially made for photographic apparatus and instruments</Include>
+                    <Include id="U318012">automated teller machines, invoicing machines, material testing instruments and machines</Include>
+                    <Include id="U318013">batteries and chargers for electronic cigarettes</Include>
+                    <Include id="U318014">electric and electronic effects units for musical instruments</Include>
+                    <Include id="U318015">laboratory robots, teaching robots, security surveillance robots, humanoid robots with artificial intelligence for use in scientific research</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318016">joysticks being parts of machines, other than for game machines , vehicle joysticks , joysticks for video games, controllers for toys and game consoles </Exclude>
+                    <Exclude id="U318017">coin-operated apparatus that are classified in various classes according to their function or purpose, for example, coin-operated washing machines , coin-operated billiard tables </Exclude>
+                    <Exclude id="U318018">industrial robots , surgical robots , toy robots </Exclude>
+                    <Exclude id="U318019">pulse meters, heart rate monitoring apparatus, body composition monitors </Exclude>
+                    <Exclude id="U318020">laboratory lamps, laboratory burners </Exclude>
+                    <Exclude id="U318021">diving lights </Exclude>
+                    <Exclude id="U318022">explosive fog signals, signal rocket flares </Exclude>
+                    <Exclude id="U318023">histological sections for teaching purposes, biological samples for use in microscopy as teaching materials </Exclude>
+                    <Exclude id="U318024">clothing and equipment worn for the practice of certain sports, for example, protective paddings being parts of sports suits, fencing masks, boxing gloves </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241843" idRef="U241842" ncl="10">
+            <Heading>
+                <HeadingItem id="U241975">Surgical, medical, dental and veterinary apparatus and instruments</HeadingItem>
+                <HeadingItem id="U241976">artificial limbs, eyes and teeth</HeadingItem>
+                <HeadingItem id="U241977">orthopaedic articles</HeadingItem>
+                <HeadingItem id="U241978">suture materials</HeadingItem>
+                <HeadingItem id="U300175">therapeutic and assistive devices adapted for persons with disabilities</HeadingItem>
+                <HeadingItem id="U300176">massage apparatus</HeadingItem>
+                <HeadingItem id="U300177">apparatus, devices and articles for nursing infants</HeadingItem>
+                <HeadingItem id="U300178">sexual activity apparatus, devices and articles</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242127">
+                <Introduction id="U242170">surgical, medical, dental and veterinary apparatus, instruments and articles generally used for the diagnosis, treatment or improvement of function or condition of persons and animals.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U341288">support bandages, orthopaedic bandages</Include>
+                    <Include id="U341289">special clothing for medical purposes, for example, compression garments, stockings for varices, strait jackets, orthopaedic footwear</Include>
+                    <Include id="U300180">articles, instruments and devices for menstruation, contraception and childbirth, for example, menstrual cups, pessaries, condoms, childbirth mattresses, forceps</Include>
+                    <Include id="U341290">therapeutic and prosthetic articles and devices for implantation made of artificial or synthetic materials, for example, surgical implants comprised of artificial materials, artificial breasts, brain pacemakers, biodegradable bone fixation implants</Include>
+                    <Include id="U300182">furniture especially made for medical purposes, for example, armchairs for medical or dental purposes, air mattresses for medical purposes, operating tables</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U300183">medical dressings and absorbent sanitary articles, for example, plasters, bandages and gauze for dressings, breast-nursing pads, diapers for babies and for incontinence, tampons </Exclude>
+                    <Exclude id="U300184">surgical implants comprised of living tissue </Exclude>
+                    <Exclude id="U300185">tobacco-free cigarettes for medical purposes  and electronic cigarettes </Exclude>
+                    <Exclude id="U300186">wheelchairs and mobility scooters </Exclude>
+                    <Exclude id="U300187">massage tables </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241845" idRef="U241844" ncl="11">
+            <Heading>
+                <HeadingItem id="U241979">Apparatus and installations for lighting, heating, cooling, steam generating, cooking, drying, ventilating, water supply and sanitary purposes</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242128">
+                <Introduction id="U318025">environmental control apparatus and installations, in particular, for the purposes of lighting, cooking, cooling and sanitizing.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242224">air-conditioning apparatus and installations</Include>
+                    <Include id="U318026">ovens, other than for laboratory use, for example, dental ovens, microwave ovens, bakers' ovens</Include>
+                    <Include id="U318027">stoves being heating apparatus</Include>
+                    <Include id="U318028">solar thermal collectors</Include>
+                    <Include id="U318029">chimney flues, chimney blowers, hearths, domestic fireplaces</Include>
+                    <Include id="U318030">sterilizers, incinerators</Include>
+                    <Include id="U341200">lighting apparatus and installations, for example, luminous tubes for lighting, searchlights, luminous house numbers, vehicle reflectors, lights for vehicles</Include>
+                    <Include id="U318032">lamps, for example, electric lamps, gas lamps, laboratory lamps, oil lamps, street lamps, safety lamps</Include>
+                    <Include id="U318033">tanning beds</Include>
+                    <Include id="U318034">bath installations, bath fittings, bath plumbing fixtures</Include>
+                    <Include id="U318035">toilets, urinals</Include>
+                    <Include id="U318036">fountains, chocolate fountains</Include>
+                    <Include id="U242226">electrically heated pads, cushions and blankets, not for medical purposes</Include>
+                    <Include id="U318037">hot water bottles</Include>
+                    <Include id="U300188">electrically heated clothing</Include>
+                    <Include id="U318038">electric appliances for making yogurt, bread-making machines, coffee machines, ice-cream making machines</Include>
+                    <Include id="U318039">ice machines and apparatus</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242353">steam producing apparatus being parts of machines </Exclude>
+                    <Exclude id="U318040">air condensers </Exclude>
+                    <Exclude id="U318041">current generators, generators of electricity </Exclude>
+                    <Exclude id="U318042">soldering lamps , optical lamps, darkroom lamps , lamps for medical purposes </Exclude>
+                    <Exclude id="U318043">ovens for laboratory use </Exclude>
+                    <Exclude id="U318044">photovoltaic cells </Exclude>
+                    <Exclude id="U318045">signalling lights </Exclude>
+                    <Exclude id="U318046">electrically heated pads, cushions and blankets, for medical purposes </Exclude>
+                    <Exclude id="U318047">portable baby baths </Exclude>
+                    <Exclude id="U318048">non-electric portable coolers </Exclude>
+                    <Exclude id="U318049">cooking utensils that do not have an integrated heat source, for example, non-electric griddles and grills, non-electric waffle irons, non-electric pressure cookers </Exclude>
+                    <Exclude id="U318050">footmuffs, not electrically heated </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241847" idRef="U241846" ncl="12">
+            <Heading>
+                <HeadingItem id="U241980">Vehicles</HeadingItem>
+                <HeadingItem id="U241981">apparatus for locomotion by land, air or water</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242129">
+                <Introduction id="U310047">vehicles and apparatus for the transport of people or goods by land, air or water.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242229">motors and engines for land vehicles</Include>
+                    <Include id="U242230">couplings and transmission components for land vehicles</Include>
+                    <Include id="U242231">air cushion vehicles</Include>
+                    <Include id="U310048">remote control vehicles, other than toys</Include>
+                    <Include id="U310049">parts of vehicles, for example, bumpers, windscreens, steering wheels</Include>
+                    <Include id="U337817">treads for vehicles, as well as tyres for all kinds of vehicle wheels</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242357">railway material of metal </Exclude>
+                    <Exclude id="U242358">motors, engines, couplings and transmission components, other than for land vehicles </Exclude>
+                    <Exclude id="U242359">parts of all kinds of motors and engines, for example, starters, mufflers and cylinders for motors and engines </Exclude>
+                    <Exclude id="U310050">rubber tracks being parts of crawlers on construction, mining, agricultural and other heavy-duty machines </Exclude>
+                    <Exclude id="U310051">tricycles for infants and scooters, being toys </Exclude>
+                    <Exclude id="U310052">certain special vehicles or wheeled apparatus not for transportation purposes, for example, self-propelled road sweeping machines , fire engines , tea carts </Exclude>
+                    <Exclude id="U310053">certain parts of vehicles, for example, electric batteries, mileage recorders and radios for vehicles , lights for automobiles and bicycles , automobile carpets </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241849" idRef="U241848" ncl="13">
+            <Heading>
+                <HeadingItem id="U241982">Firearms</HeadingItem>
+                <HeadingItem id="U241983">ammunition and projectiles</HeadingItem>
+                <HeadingItem id="U241984">explosives</HeadingItem>
+                <HeadingItem id="U241985">fireworks</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242130">
+                <Introduction id="U242171">firearms and pyrotechnic products.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U318051">rescue flares, explosive or pyrotechnic</Include>
+                    <Include id="U318052">flare pistols</Include>
+                    <Include id="U318053">sprays for personal defence purposes</Include>
+                    <Include id="U318054">explosive fog signals, signal rocket flares</Include>
+                    <Include id="U318055">air pistols being weapons</Include>
+                    <Include id="U318056">bandoliers for weapons</Include>
+                    <Include id="U318057">sporting firearms, hunting firearms</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318058">grease for weapons </Exclude>
+                    <Exclude id="U318059">blades being weapons </Exclude>
+                    <Exclude id="U318060">side arms, other than firearms </Exclude>
+                    <Exclude id="U318061">non-explosive fog signals, rescue laser signalling flares </Exclude>
+                    <Exclude id="U318062">telescopic sights for firearms </Exclude>
+                    <Exclude id="U318063">flaming torches </Exclude>
+                    <Exclude id="U318064">Christmas crackers </Exclude>
+                    <Exclude id="U318065">percussion caps being toys </Exclude>
+                    <Exclude id="U318066">toy air pistols </Exclude>
+                    <Exclude id="U242360">matches </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241851" idRef="U241850" ncl="14">
+            <Heading>
+                <HeadingItem id="U241986">Precious metals and their alloys</HeadingItem>
+                <HeadingItem id="U241987">jewellery, precious and semi-precious stones</HeadingItem>
+                <HeadingItem id="U241988">horological and chronometric instruments</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242131">
+                <Introduction id="U242172">precious metals and certain goods made of precious metals or coated therewith, as well as jewellery, clocks and watches, and component parts therefor.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242232">jewellery, including imitation jewellery, for example, paste jewellery</Include>
+                    <Include id="U242233">cuff links, tie pins, tie clips</Include>
+                    <Include id="U300189">key rings, key chains and charms therefor</Include>
+                    <Include id="U300190">jewellery charms</Include>
+                    <Include id="U300191">jewellery boxes</Include>
+                    <Include id="U300192">component parts for jewellery, clocks and watches, for example, clasps and beads for jewellery, movements for clocks and watches, clock hands, watch springs, watch crystals</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U300193">smartwatches </Exclude>
+                    <Exclude id="U300194">charms, other than for jewellery, key rings or key chains </Exclude>
+                    <Exclude id="U300195">objects of art not made of precious metals or coated therewith that are classified according to the material of which they are made, for example, works of art of metal , of stone, concrete or marble , of wood, wax, plaster or plastic , of porcelain, ceramic, earthenware, terra-cotta or glass </Exclude>
+                    <Exclude id="U242361">certain goods made of precious metals or coated therewith that are classified according to their function or purpose, for example, metals in foil and powder form for use in painting, decorating, printing and art , dental amalgams of gold , cutlery , electric contacts , pen nibs of gold , teapots , gold and silver embroidery , cigar boxes </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241853" idRef="U241852" ncl="15">
+            <Heading>
+                <HeadingItem id="U241989">Musical instruments</HeadingItem>
+                <HeadingItem id="U318067">music stands and stands for musical instruments</HeadingItem>
+                <HeadingItem id="U318068">conductors' batons</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242132">
+                <Introduction id="U318069">musical instruments, their parts and their accessories.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242234">mechanical musical instruments and their accessories, for example, barrel organs, mechanical pianos, intensity regulators for mechanical pianos, robotic drums</Include>
+                    <Include id="U242235">musical boxes</Include>
+                    <Include id="U242236">electrical and electronic musical instruments</Include>
+                    <Include id="U318070">strings, reeds, pegs and pedals for musical instruments</Include>
+                    <Include id="U318071">tuning forks, tuning hammers</Include>
+                    <Include id="U318072">colophony (rosin) for stringed musical instruments</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242363">apparatus for the recording, transmission, amplification and reproduction of sound, for example, electric and electronic effects units for musical instruments, wah-wah pedals, audio interfaces, audio mixers, equalisers being audio apparatus, subwoofers </Exclude>
+                    <Exclude id="U318073">downloadable music files </Exclude>
+                    <Exclude id="U318074">downloadable electronic sheet music , printed sheet music </Exclude>
+                    <Exclude id="U318075">juke boxes, musical </Exclude>
+                    <Exclude id="U318076">metronomes </Exclude>
+                    <Exclude id="U318077">musical greeting cards </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241855" idRef="U241854" ncl="16">
+            <Heading>
+                <HeadingItem id="U241990">Paper and cardboard</HeadingItem>
+                <HeadingItem id="U241991">printed matter</HeadingItem>
+                <HeadingItem id="U241992">bookbinding material</HeadingItem>
+                <HeadingItem id="U241993">photographs</HeadingItem>
+                <HeadingItem id="U241994">stationery and office requisites, except furniture</HeadingItem>
+                <HeadingItem id="U241995">adhesives for stationery or household purposes</HeadingItem>
+                <HeadingItem id="U241996">drawing materials and materials for artists</HeadingItem>
+                <HeadingItem id="U241997">paintbrushes</HeadingItem>
+                <HeadingItem id="U241999">instructional and teaching materials</HeadingItem>
+                <HeadingItem id="U242000">plastic sheets, films and bags for wrapping and packaging</HeadingItem>
+                <HeadingItem id="U242002">printers' type, printing blocks</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242133">
+                <Introduction id="U242173">paper, cardboard and certain goods made of those materials, as well as office requisites.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242237">paper knives and paper cutters</Include>
+                    <Include id="U300196">cases, covers and devices for holding or securing paper, for example, document files, money clips, holders for cheque books, paper-clips, passport holders, scrapbooks</Include>
+                    <Include id="U242238">certain office machines, for example, typewriters, duplicators, franking machines for office use, pencil sharpeners</Include>
+                    <Include id="U300197">painting articles for use by artists and interior and exterior painters, for example, artists' watercolour saucers, painters' easels and palettes, paint rollers and trays</Include>
+                    <Include id="U300198">certain disposable paper products, for example, bibs, handkerchiefs and table linen of paper</Include>
+                    <Include id="U300199">certain goods made of paper or cardboard not otherwise classified by function or purpose, for example, paper bags, envelopes and containers for packaging, statues, figurines and works of art of paper or cardboard, such as figurines of papier mâché, framed or unframed lithographs, paintings and watercolours</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242365">paints </Exclude>
+                    <Exclude id="U242366">hand tools for artists, for example, spatulas, sculptors' chisels </Exclude>
+                    <Exclude id="U300200">teaching apparatus, for example, audiovisual teaching apparatus, resuscitation mannequins , and toy models </Exclude>
+                    <Exclude id="U242367">certain goods made of paper or cardboard that are classified according to their function or purpose, for example, photographic paper , abrasive paper , paper blinds , table cups and plates of paper , bed linen of paper , paper clothing , cigarette paper </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241857" idRef="U241856" ncl="17">
+            <Heading>
+                <HeadingItem id="U242003">Unprocessed and semi-processed rubber, gutta-percha, gum, asbestos, mica and substitutes for all these materials</HeadingItem>
+                <HeadingItem id="U242004">plastics and resins in extruded form for use in manufacture</HeadingItem>
+                <HeadingItem id="U242005">packing, stopping and insulating materials</HeadingItem>
+                <HeadingItem id="U242006">flexible pipes, tubes and hoses, not of metal</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242134">
+                <Introduction id="U242174">electrical, thermal and acoustic insulating materials and plastics for use in manufacture in the form of sheets, blocks and rods, as well as certain goods made of rubber, gutta-percha, gum, asbestos, mica or substitutes therefor.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242241">rubber material for recapping tyres</Include>
+                    <Include id="U242243">floating anti-pollution barriers</Include>
+                    <Include id="U300201">adhesive tapes, other than stationery and not for medical or household purposes</Include>
+                    <Include id="U300202">plastic films, other than for wrapping and packaging, for example, anti-dazzle films for windows</Include>
+                    <Include id="U300203">elastic threads and threads of rubber or plastic, not for textile use</Include>
+                    <Include id="U300204">certain goods made of the materials in this class not otherwise classified by function or purpose, for example, foam supports for flower arrangements, padding and stuffing materials of rubber or plastics, rubber stoppers, shock-absorbing buffers of rubber, rubber bags or envelopes for packaging</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U300205">fire hose </Exclude>
+                    <Exclude id="U300206">pipes being parts of sanitary installations  and rigid pipes of metal  and not of metal </Exclude>
+                    <Exclude id="U300207">insulating glass for building </Exclude>
+                    <Exclude id="U242368">certain goods made of the materials in this class that are classified according to their function or purpose, for example, gum resins , rubber for dental purposes , asbestos screens for firemen , adhesive rubber patches for repairing inner tubes , rubber erasers </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241859" idRef="U241858" ncl="18">
+            <Heading>
+                <HeadingItem id="U242007">Leather and imitations of leather</HeadingItem>
+                <HeadingItem id="U242008">animal skins and hides</HeadingItem>
+                <HeadingItem id="U242009">luggage and carrying bags</HeadingItem>
+                <HeadingItem id="U242010">umbrellas and parasols</HeadingItem>
+                <HeadingItem id="U242011">walking sticks</HeadingItem>
+                <HeadingItem id="U242012">whips, harness and saddlery</HeadingItem>
+                <HeadingItem id="U300208">collars, leashes and clothing for animals</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242135">
+                <Introduction id="U242175">leather, imitations of leather and certain goods made of those materials.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U300209">luggage and carrying bags, for example, suitcases, trunks, travelling bags, sling bags for carrying infants, school bags</Include>
+                    <Include id="U242244">luggage or baggage tags</Include>
+                    <Include id="U300210">business card cases and pocket wallets</Include>
+                    <Include id="U300211">boxes and cases of leather or leatherboard</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U310054">walking sticks or canes for medical purposes </Exclude>
+                    <Exclude id="U242369">clothing, footwear and headwear of leather for human beings </Exclude>
+                    <Exclude id="U300212">bags and cases adapted to the product they are intended to contain, for example, bags adapted for laptops , bags and cases for cameras and photographic equipment , cases for musical instruments , golf bags with or without wheels, bags especially designed for skis and surfboards </Exclude>
+                    <Exclude id="U242370">certain goods made of leather, imitations of leather, animal skins and hides that are classified according to their function or purpose, for example, leather strops , polishing leather , chamois leather for cleaning , leather belts for clothing </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241861" idRef="U241860" ncl="19">
+            <Heading>
+                <HeadingItem id="U242013">Materials, not of metal, for building and construction</HeadingItem>
+                <HeadingItem id="U242014">rigid pipes, not of metal, for building</HeadingItem>
+                <HeadingItem id="U242015">asphalt, pitch, tar and bitumen</HeadingItem>
+                <HeadingItem id="U242016">transportable buildings, not of metal</HeadingItem>
+                <HeadingItem id="U242017">monuments, not of metal</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242136">
+                <Introduction id="U242176">materials, not of metal, for building and construction.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242245">semi-worked woods for use in building, for example, beams, planks, panels</Include>
+                    <Include id="U242246">wood veneers</Include>
+                    <Include id="U242247">building glass, for example, glass tiles, insulating glass for building, safety glass</Include>
+                    <Include id="U242248">glass granules for marking out roads</Include>
+                    <Include id="U318078">granite, marble, gravel</Include>
+                    <Include id="U318079">terra-cotta for use as a building material</Include>
+                    <Include id="U318080">roofing, not of metal, incorporating photovoltaic cells</Include>
+                    <Include id="U318081">gravestones and tombs, not of metal</Include>
+                    <Include id="U318082">statues, busts and works of art of stone, concrete or marble</Include>
+                    <Include id="U242249">letter boxes of masonry</Include>
+                    <Include id="U318083">geotextiles</Include>
+                    <Include id="U318084">coatings being building materials</Include>
+                    <Include id="U318085">scaffolding, not of metal</Include>
+                    <Include id="U318086">transportable buildings or structures, not of metal, for example, aquaria, aviaries, flagpoles, porches, swimming pools</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242371">cement preservatives, cement-waterproofing preparations </Exclude>
+                    <Exclude id="U242372">fireproofing preparations </Exclude>
+                    <Exclude id="U318087">wood preservatives </Exclude>
+                    <Exclude id="U318088">oils for releasing form work for building </Exclude>
+                    <Exclude id="U318089">letter boxes of metal  and not of metal or masonry </Exclude>
+                    <Exclude id="U318090">statues, busts and works of art of common metal , of precious metal , of wood, wax, plaster or plastic , of porcelain, ceramic, earthenware, terra-cotta or glass </Exclude>
+                    <Exclude id="U318091">certain pipes, not of metal, not for building, for example, pipes being parts of sanitary installations , flexible pipes, tubes and hoses, not of metal </Exclude>
+                    <Exclude id="U318092">substances for insulating buildings against moisture </Exclude>
+                    <Exclude id="U318093">glass for vehicle windows (semi-finished product) </Exclude>
+                    <Exclude id="U318094">birdcages </Exclude>
+                    <Exclude id="U318095">mats and matting, linoleum and other materials for covering existing floors </Exclude>
+                    <Exclude id="U318096">unsawn or undressed timber </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241863" idRef="U241862" ncl="20">
+            <Heading>
+                <HeadingItem id="U242018">Furniture, mirrors, picture frames</HeadingItem>
+                <HeadingItem id="U300213">containers, not of metal, for storage or transport</HeadingItem>
+                <HeadingItem id="U242019">unworked or semi-worked bone, horn, whalebone or mother-of-pearl</HeadingItem>
+                <HeadingItem id="U242020">shells</HeadingItem>
+                <HeadingItem id="U242021">meerschaum</HeadingItem>
+                <HeadingItem id="U242022">yellow amber</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242137">
+                <Introduction id="U242177">furniture and parts therefor, as well as certain goods made of wood, cork, reed, cane, wicker, horn, bone, whalebone, shell, amber, mother-of-pearl, meerschaum and substitutes for all these materials, or of plastic.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242250">metal furniture, furniture for camping, gun racks, newspaper display stands</Include>
+                    <Include id="U300214">indoor window blinds and shades</Include>
+                    <Include id="U242251">bedding, for example, mattresses, bed bases, pillows</Include>
+                    <Include id="U242252">looking glasses, furniture and toilet mirrors</Include>
+                    <Include id="U242253">registration plates, not of metal</Include>
+                    <Include id="U300215">small items of hardware, not of metal, for example, bolts, screws, dowels, furniture casters, collars for fastening pipes</Include>
+                    <Include id="U242254">letter boxes, not of metal or masonry</Include>
+                    <Include id="U354453">certain dispensing apparatus, not of metal, automatic or non-automatic, for example, towel dispensers, queue ticket dispensers, dispensers for dog waste bags, toilet paper dispensers</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U300216">special furniture for laboratories  or for medical use </Exclude>
+                    <Exclude id="U300217">outdoor blinds of metal , not of metal and not of textile , of textile </Exclude>
+                    <Exclude id="U300218">bed linen, eiderdowns and sleeping bags </Exclude>
+                    <Exclude id="U354452">certain dispensing apparatus that are classified according to their function or purpose, for example, fluid dispensing machines for industrial use , ticket dispensing terminals, electronic , dosage dispensers for medical use , adhesive tape dispensers </Exclude>
+                    <Exclude id="U242373">certain mirrors for specific uses, for example, mirrors used in optical goods , mirrors used in surgery or dentistry , rearview mirrors , sighting mirrors for guns </Exclude>
+                    <Exclude id="U242374">certain goods made of wood, cork, reed, cane, wicker, horn, bone, whalebone, shell, amber, mother-of-pearl, meerschaum and substitutes for all these materials, or of plastic, that are classified according to their function or purpose, for example, beads for making jewellery , wooden floor boards , baskets for domestic use , plastic cups , reed mats </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241865" idRef="U241864" ncl="21">
+            <Heading>
+                <HeadingItem id="U242023">Household or kitchen utensils and containers</HeadingItem>
+                <HeadingItem id="U310055">cookware and tableware, except forks, knives and spoons</HeadingItem>
+                <HeadingItem id="U242024">combs and sponges</HeadingItem>
+                <HeadingItem id="U242025">brushes, except paintbrushes</HeadingItem>
+                <HeadingItem id="U242026">brush-making materials</HeadingItem>
+                <HeadingItem id="U242027">articles for cleaning purposes</HeadingItem>
+                <HeadingItem id="U242029">unworked or semi-worked glass, except building glass</HeadingItem>
+                <HeadingItem id="U242030">glassware, porcelain and earthenware</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242138">
+                <Introduction id="U242178">small, hand-operated utensils and apparatus for household and kitchen use, as well as cosmetic and toilet utensils, glassware and certain goods made of porcelain, ceramic, earthenware, terra-cotta or glass.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U310056">household and kitchen utensils, for example, fly swatters, clothes-pegs, mixing spoons, basting spoons and corkscrews, as well as serving utensils, for example, sugar tongs, ice tongs, pie servers and serving ladles</Include>
+                    <Include id="U310057">household, kitchen and cooking containers, for example, vases, bottles, piggy banks, pails, cocktail shakers, cooking pots and pans, and non-electric kettles and pressure cookers</Include>
+                    <Include id="U300219">small hand-operated kitchen apparatus for mincing, grinding, pressing or crushing, for example, garlic presses, nutcrackers, pestles and mortars</Include>
+                    <Include id="U242258">dish stands and decanter stands</Include>
+                    <Include id="U310058">cosmetic utensils, for example, electric and non-electric combs and toothbrushes, dental floss, foam toe separators for use in pedicures, powder puffs, fitted vanity cases</Include>
+                    <Include id="U310059">gardening articles, for example, gardening gloves, window-boxes, watering cans and nozzles for watering hose</Include>
+                    <Include id="U310060">indoor aquaria, terrariums and vivariums</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242380">cleaning preparations </Exclude>
+                    <Exclude id="U310061">containers for storage and transport of goods, of metal , not of metal </Exclude>
+                    <Exclude id="U242381">small apparatus for mincing, grinding, pressing or crushing, which are driven by electricity </Exclude>
+                    <Exclude id="U242382">razors and shaving apparatus, hair and nail clippers, electric and non-electric implements for manicure and pedicure, for example, manicure sets, emery boards, cuticle nippers </Exclude>
+                    <Exclude id="U300221">table cutlery  and hand-operated cutting tools for kitchen use, for example, vegetable shredders, pizza cutters, cheese slicers </Exclude>
+                    <Exclude id="U300222">lice combs, tongue scrapers </Exclude>
+                    <Exclude id="U242383">cooking utensils, electric </Exclude>
+                    <Exclude id="U242384">toilet mirrors </Exclude>
+                    <Exclude id="U300223">certain goods made of glass, porcelain and earthenware that are classified according to their function or purpose, for example, porcelain for dental prostheses , spectacle lenses , glass wool for insulation, acrylic or organic glass, semi-processed , earthenware tiles , building glass , glass fibres for textile use </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241867" idRef="U241866" ncl="22">
+            <Heading>
+                <HeadingItem id="U242031">Ropes and string</HeadingItem>
+                <HeadingItem id="U242032">nets</HeadingItem>
+                <HeadingItem id="U300224">tents and tarpaulins</HeadingItem>
+                <HeadingItem id="U300225">awnings of textile or synthetic materials</HeadingItem>
+                <HeadingItem id="U242034">sails</HeadingItem>
+                <HeadingItem id="U242035">sacks for the transport and storage of materials in bulk</HeadingItem>
+                <HeadingItem id="U242036">padding, cushioning and stuffing materials, except of paper, cardboard, rubber or plastics</HeadingItem>
+                <HeadingItem id="U242037">raw fibrous textile materials and substitutes therefor</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242139">
+                <Introduction id="U242179">canvas and other materials for making sails, rope, padding, cushioning and stuffing materials and raw fibrous textile materials.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242259">cords and twines made of natural or artificial textile fibres, paper or plastics</Include>
+                    <Include id="U300226">fishing nets, hammocks, rope ladders</Include>
+                    <Include id="U300227">vehicle covers, not fitted</Include>
+                    <Include id="U242260">certain sacks and bags not otherwise classified by function or purpose, for example, mesh bags for washing laundry, body bags, mail bags</Include>
+                    <Include id="U300228">packaging bags of textile</Include>
+                    <Include id="U300229">animal fibres and raw textile fibres, for example, animal hair, cocoons, jute, raw or treated wool, raw silk</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U300230">metal ropes </Exclude>
+                    <Exclude id="U242386">strings for musical instruments  and for sports rackets </Exclude>
+                    <Exclude id="U242387">padding and stuffing materials of paper or cardboard , rubber or plastics </Exclude>
+                    <Exclude id="U300231">certain nets and bags that are classified according to their function or purpose, for example, safety nets , luggage nets for vehicles , garment bags for travel , hair nets , golf bags , nets for sports </Exclude>
+                    <Exclude id="U300232">packaging bags, not of textile, which are classified according to the material of which they are made, for example, packaging bags of paper or plastics , of rubber , of leather </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241869" idRef="U241868" ncl="23">
+            <Heading>
+                <HeadingItem id="U242038">Yarns and threads for textile use</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U323728">
+                <Introduction id="U323729">natural or synthetic yarns and threads for textile use.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U318097">fibreglass, elastic, rubber and plastic threads for textile use</Include>
+                    <Include id="U318098">threads for embroidery, darning and sewing, including those of metal</Include>
+                    <Include id="U318099">spun silk, spun cotton, spun wool</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318100">certain threads for specific uses, for example, identification threads for electric wires , surgical thread , threads of precious metal being jewellery </Exclude>
+                    <Exclude id="U318101">threads, other than for textile use, that are classified according to the material of which they are made, for example, threads for binding of metal  and not of metal , elastic threads, threads of rubber or plastic , fibreglass threads </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241871" idRef="U241870" ncl="24">
+            <Heading>
+                <HeadingItem id="U242039">Textiles and substitutes for textiles</HeadingItem>
+                <HeadingItem id="U242041">household linen</HeadingItem>
+                <HeadingItem id="U300233">curtains of textile or plastic</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242140">
+                <Introduction id="U242180">fabrics and fabric covers for household use.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242261">household linen, for example, bedspreads, pillow shams, towels of textile</Include>
+                    <Include id="U242262">bed linen of paper</Include>
+                    <Include id="U300234">sleeping bags, sleeping bag liners</Include>
+                    <Include id="U300235">mosquito nets</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242389">electrically heated blankets, for medical purposes  and not for medical purposes </Exclude>
+                    <Exclude id="U242390">table linen of paper </Exclude>
+                    <Exclude id="U300236">asbestos safety curtains , bamboo curtains and bead curtains for decoration </Exclude>
+                    <Exclude id="U242391">horse blankets </Exclude>
+                    <Exclude id="U300237">certain textiles and fabrics for specific uses, for example, fabrics for bookbinding , insulating fabrics , geotextiles </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241873" idRef="U241872" ncl="25">
+            <Heading>
+                <HeadingItem id="U242042">Clothing, footwear, headwear</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242141">
+                <Introduction id="U318102">clothing, footwear and headwear for human beings.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U318103">parts of clothing, footwear and headwear, for example, cuffs, pockets, ready-made linings, heels and heelpieces, cap peaks, hat frames (skeletons)</Include>
+                    <Include id="U318104">clothing and footwear for sports, for example, ski gloves, sports singlets, cyclists' clothing, judo and karate uniforms, football shoes, gymnastic shoes, ski boots</Include>
+                    <Include id="U318105">masquerade costumes</Include>
+                    <Include id="U318106">paper clothing, paper hats for use as clothing</Include>
+                    <Include id="U318107">bibs, not of paper</Include>
+                    <Include id="U318108">pocket squares</Include>
+                    <Include id="U318109">footmuffs, not electrically heated</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318110">small items of hardware used in shoemaking, for example, shoe pegs and shoe dowels of metal  and not of metal , as well as haberdashery accessories and fastenings for clothing, footwear and headwear, for example, clasps, buckles, zippers, ribbons, hatbands, hat and shoe trimmings </Exclude>
+                    <Exclude id="U242392">certain clothing, footwear and headwear for special use, for example, protective helmets, including for sports , clothing for protection against fire , clothing especially for operating rooms , orthopaedic footwear , as well as clothing and footwear that are essential for the practice of certain sports, for example, baseball gloves, boxing gloves, ice skates </Exclude>
+                    <Exclude id="U318111">electrically heated clothing </Exclude>
+                    <Exclude id="U318112">electrically heated footmuffs , fitted footmuffs for pushchairs and prams </Exclude>
+                    <Exclude id="U318113">bibs of paper </Exclude>
+                    <Exclude id="U318114">handkerchiefs of paper  and of textile </Exclude>
+                    <Exclude id="U318115">clothing for animals </Exclude>
+                    <Exclude id="U318116">carnival masks </Exclude>
+                    <Exclude id="U318117">dolls' clothes </Exclude>
+                    <Exclude id="U318118">paper party hats </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241875" idRef="U241874" ncl="26">
+            <Heading>
+                <HeadingItem id="U242043">Lace, braid and embroidery, and haberdashery ribbons and bows</HeadingItem>
+                <HeadingItem id="U242044">buttons, hooks and eyes, pins and needles</HeadingItem>
+                <HeadingItem id="U242045">artificial flowers</HeadingItem>
+                <HeadingItem id="U300238">hair decorations</HeadingItem>
+                <HeadingItem id="U300239">false hair</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242142">
+                <Introduction id="U242181">dressmakers' articles, natural or synthetic hair for wear, and hair adornments, as well as small decorative items intended to adorn a variety of objects, not included in other classes.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U300240">wigs, toupees, false beards</Include>
+                    <Include id="U300241">barrettes, hair bands</Include>
+                    <Include id="U318119">ribbons and bows being haberdashery or used as hair decorations, made of any material</Include>
+                    <Include id="U318120">ribbons and bows for gift wrapping, not of paper</Include>
+                    <Include id="U300242">hair nets</Include>
+                    <Include id="U300243">buckles, zippers</Include>
+                    <Include id="U300244">charms, other than for jewellery, key rings or key chains</Include>
+                    <Include id="U318121">artificial Christmas garlands and wreaths, including those incorporating lights</Include>
+                    <Include id="U318122">certain articles for curling hair, for example, electric and non-electric hair curlers, other than hand implements, hair curling pins, hair curling paper</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318123">false eyelashes </Exclude>
+                    <Exclude id="U318124">hooks being small items of metal hardware  or hardware, not of metal , curtain hooks </Exclude>
+                    <Exclude id="U242394">certain special types of needles, for example, tattoo needles , needles for surveying compasses , needles for medical purposes , needles for pumps for inflating balls for games </Exclude>
+                    <Exclude id="U318125">hand implements for curling hair, for example, curling tongs, eyelash curlers </Exclude>
+                    <Exclude id="U300246">hair prostheses </Exclude>
+                    <Exclude id="U300247">jewellery charms, charms for key rings or key chains </Exclude>
+                    <Exclude id="U318126">certain ribbons and bows, for example, paper ribbons and bows, other than haberdashery or hair decorations , rhythmic gymnastics ribbons </Exclude>
+                    <Exclude id="U242395">yarns and threads for textile use </Exclude>
+                    <Exclude id="U318127">Christmas trees of synthetic material </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241877" idRef="U241876" ncl="27">
+            <Heading>
+                <HeadingItem id="U242046">Carpets, rugs, mats and matting, linoleum and other materials for covering existing floors</HeadingItem>
+                <HeadingItem id="U242047">wall hangings, not of textile</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242143">
+                <Introduction id="U242182">products intended to be added as coverings to previously constructed floors and walls.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U318128">automobile carpets</Include>
+                    <Include id="U318129">mats being floor coverings, for example, bath mats, door mats, gymnastic mats, yoga mats</Include>
+                    <Include id="U318130">artificial turf</Include>
+                    <Include id="U318131">wallpaper, including textile wallpaper</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318132">floors, floorings and floor tiles of metal  and not of metal , wooden floor boards </Exclude>
+                    <Exclude id="U318133">electrically heated carpets </Exclude>
+                    <Exclude id="U318134">geotextiles </Exclude>
+                    <Exclude id="U318135">mats for infant playpens </Exclude>
+                    <Exclude id="U318136">wall hangings of textile </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241879" idRef="U241878" ncl="28">
+            <Heading>
+                <HeadingItem id="U242048">Games, toys and playthings</HeadingItem>
+                <HeadingItem id="U300249">video game apparatus</HeadingItem>
+                <HeadingItem id="U242049">gymnastic and sporting articles</HeadingItem>
+                <HeadingItem id="U242050">decorations for Christmas trees</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242144">
+                <Introduction id="U300250">toys, apparatus for playing games, sports equipment, amusement and novelty items, as well as certain articles for Christmas trees.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242264">amusement and game apparatus, including controllers therefor</Include>
+                    <Include id="U300251">novelty toys for playing jokes and for parties, for example, carnival masks, paper party hats, confetti, party poppers and Christmas crackers</Include>
+                    <Include id="U242265">hunting and fishing tackle, for example, fishing rods, landing nets for anglers, decoys, hunting game calls</Include>
+                    <Include id="U242266">equipment for various sports and games</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242398">Christmas tree candles , electric lights for Christmas trees , confectionery and chocolate decorations for Christmas trees </Exclude>
+                    <Exclude id="U242399">diving equipment </Exclude>
+                    <Exclude id="U300252">sex toys and love dolls </Exclude>
+                    <Exclude id="U242402">clothing for gymnastics and sports </Exclude>
+                    <Exclude id="U300253">certain gymnastic and sporting articles, for example, protective helmets, goggles and mouthguards for sports , sporting firearms , gymnasium mats , as well as certain fishing and hunting equipment, for example, hunting knives, harpoons , hunting firearms , fishing nets , that are classified according to other functions or purposes</Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241881" idRef="U241880" ncl="29">
+            <Heading>
+                <HeadingItem id="U242051">Meat, fish, poultry and game</HeadingItem>
+                <HeadingItem id="U242052">meat extracts</HeadingItem>
+                <HeadingItem id="U242053">preserved, frozen, dried and cooked fruits and vegetables</HeadingItem>
+                <HeadingItem id="U242054">jellies, jams, compotes</HeadingItem>
+                <HeadingItem id="U242055">eggs</HeadingItem>
+                <HeadingItem id="U242056">milk, cheese, butter, yogurt and other milk products</HeadingItem>
+                <HeadingItem id="U242057">oils and fats for food</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242145">
+                <Introduction id="U242183">foodstuffs of animal origin, as well as vegetables and other horticultural comestible products which are prepared or preserved for consumption.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U318137">meat-, fish-, fruit- or vegetable-based food</Include>
+                    <Include id="U318138">edible insects</Include>
+                    <Include id="U242267">milk beverages with milk predominating</Include>
+                    <Include id="U318139">milk substitutes, for example, almond milk, coconut milk, peanut milk, rice milk, soya milk</Include>
+                    <Include id="U318140">preserved mushrooms</Include>
+                    <Include id="U318141">pulses and nuts prepared for human consumption</Include>
+                    <Include id="U300254">seeds prepared for human consumption, not being seasonings or flavourings</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318142">oils and fats, other than for food, for example, essential oils , industrial oil , castor oil for medical purposes </Exclude>
+                    <Exclude id="U242405">baby food </Exclude>
+                    <Exclude id="U242406">dietetic food and substances adapted for medical use </Exclude>
+                    <Exclude id="U242407">dietary supplements </Exclude>
+                    <Exclude id="U318143">salad dressings </Exclude>
+                    <Exclude id="U300255">processed seeds for use as a seasoning </Exclude>
+                    <Exclude id="U318144">chocolate-coated nuts </Exclude>
+                    <Exclude id="U318145">fresh and unprocessed fruits, vegetables, nuts and seeds </Exclude>
+                    <Exclude id="U242410">foodstuffs for animals </Exclude>
+                    <Exclude id="U242411">live animals </Exclude>
+                    <Exclude id="U300256">seeds for planting </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241883" idRef="U241882" ncl="30">
+            <Heading>
+                <HeadingItem id="U242058">Coffee, tea, cocoa and substitutes therefor</HeadingItem>
+                <HeadingItem id="U242059">rice, pasta and noodles</HeadingItem>
+                <HeadingItem id="U242060">tapioca and sago</HeadingItem>
+                <HeadingItem id="U242061">flour and preparations made from cereals</HeadingItem>
+                <HeadingItem id="U242062">bread, pastries and confectionery</HeadingItem>
+                <HeadingItem id="U318146">chocolate</HeadingItem>
+                <HeadingItem id="U242063">ice cream, sorbets and other edible ices</HeadingItem>
+                <HeadingItem id="U242064">sugar, honey, treacle</HeadingItem>
+                <HeadingItem id="U242065">yeast, baking-powder</HeadingItem>
+                <HeadingItem id="U242066">salt, seasonings, spices, preserved herbs</HeadingItem>
+                <HeadingItem id="U242068">vinegar, sauces and other condiments</HeadingItem>
+                <HeadingItem id="U242070">ice (frozen water)</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242146">
+                <Introduction id="U242184">foodstuffs of plant origin, except fruits and vegetables, prepared or preserved for consumption, as well as auxiliaries intended for the improvement of the flavour of food.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242268">beverages with coffee, cocoa, chocolate or tea base</Include>
+                    <Include id="U242269">cereals prepared for human consumption, for example, oat flakes, corn chips, husked barley, bulgur, muesli</Include>
+                    <Include id="U318147">pizza, pies, sandwiches</Include>
+                    <Include id="U318148">chocolate-coated nuts</Include>
+                    <Include id="U318149">flavourings, other than essential oils, for food or beverages</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242413">salt for industrial purposes </Exclude>
+                    <Exclude id="U318150">food or beverage flavourings being essential oils </Exclude>
+                    <Exclude id="U242414">medicinal teas and dietetic food and substances adapted for medical use </Exclude>
+                    <Exclude id="U242415">baby food </Exclude>
+                    <Exclude id="U242416">dietary supplements </Exclude>
+                    <Exclude id="U300257">yeast for pharmaceutical purposes , yeast for animal consumption </Exclude>
+                    <Exclude id="U318151">milk beverages flavoured with coffee, cocoa, chocolate or tea </Exclude>
+                    <Exclude id="U318152">soups, bouillon </Exclude>
+                    <Exclude id="U242417">raw cereals </Exclude>
+                    <Exclude id="U318153">fresh herbs </Exclude>
+                    <Exclude id="U242418">foodstuffs for animals </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241885" idRef="U241884" ncl="31">
+            <Heading>
+                <HeadingItem id="U242071">Raw and unprocessed agricultural, aquacultural, horticultural and forestry products</HeadingItem>
+                <HeadingItem id="U242072">raw and unprocessed grains and seeds</HeadingItem>
+                <HeadingItem id="U242073">fresh fruits and vegetables, fresh herbs</HeadingItem>
+                <HeadingItem id="U242074">natural plants and flowers</HeadingItem>
+                <HeadingItem id="U300258">bulbs, seedlings and seeds for planting</HeadingItem>
+                <HeadingItem id="U242075">live animals</HeadingItem>
+                <HeadingItem id="U242076">foodstuffs and beverages for animals</HeadingItem>
+                <HeadingItem id="U242077">malt</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242147">
+                <Introduction id="U242185">land and sea products not having been subjected to any form of preparation for consumption, live animals and plants, as well as foodstuffs for animals.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U300259">unprocessed cereals</Include>
+                    <Include id="U310062">fresh fruits and vegetables, even after washing or waxing</Include>
+                    <Include id="U300260">plant residue</Include>
+                    <Include id="U300261">unprocessed algae</Include>
+                    <Include id="U300262">unsawn timber</Include>
+                    <Include id="U242272">fertilised eggs for hatching</Include>
+                    <Include id="U300263">fresh mushrooms and truffles</Include>
+                    <Include id="U300264">litter for animals, for example, aromatic sand, sanded paper for pets</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242419">cultures of micro-organisms and leeches for medical purposes </Exclude>
+                    <Exclude id="U242420">dietary supplements for animals and medicated animal feed </Exclude>
+                    <Exclude id="U242421">semi-worked woods </Exclude>
+                    <Exclude id="U242422">artificial fishing bait </Exclude>
+                    <Exclude id="U242423">rice </Exclude>
+                    <Exclude id="U242424">tobacco </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241887" idRef="U241886" ncl="32">
+            <Heading>
+                <HeadingItem id="U242078">Beers</HeadingItem>
+                <HeadingItem id="U318154">non-alcoholic beverages</HeadingItem>
+                <HeadingItem id="U242079">mineral and aerated waters</HeadingItem>
+                <HeadingItem id="U242080">fruit beverages and fruit juices</HeadingItem>
+                <HeadingItem id="U242081">syrups and other preparations for making non-alcoholic beverages</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242148">
+                <Introduction id="U242186">non-alcoholic beverages, as well as beer.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242274">de-alcoholised beverages</Include>
+                    <Include id="U318155">soft drinks</Include>
+                    <Include id="U318156">rice-based and soya-based beverages, other than milk substitutes</Include>
+                    <Include id="U318157">energy drinks, isotonic beverages, protein-enriched sports beverages</Include>
+                    <Include id="U318158">non-alcoholic essences and fruit extracts for making beverages</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U318159">flavourings for beverages being essential oils  or other than essential oils </Exclude>
+                    <Exclude id="U242425">dietetic beverages adapted for medical purposes </Exclude>
+                    <Exclude id="U242426">milk beverages with milk predominating, milk shakes </Exclude>
+                    <Exclude id="U318160">milk substitutes, for example, almond milk, coconut milk, peanut milk, rice milk, soya milk </Exclude>
+                    <Exclude id="U318161">lemon juice for culinary purposes, tomato juice for cooking </Exclude>
+                    <Exclude id="U242427">beverages with coffee, cocoa, chocolate or tea base </Exclude>
+                    <Exclude id="U318162">beverages for pets </Exclude>
+                    <Exclude id="U318163">alcoholic beverages, except beer </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241889" idRef="U241888" ncl="33">
+            <Heading>
+                <HeadingItem id="U242082">Alcoholic beverages, except beers</HeadingItem>
+                <HeadingItem id="U318164">alcoholic preparations for making beverages</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242149">
+                <Introduction id="U318165">alcoholic beverages, essences and extracts.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U318166">wines, fortified wines</Include>
+                    <Include id="U318167">alcoholic cider, perry</Include>
+                    <Include id="U318168">spirits, liqueurs</Include>
+                    <Include id="U318169">alcoholic essences, alcoholic fruit extracts, bitters</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242428">medicinal beverages </Exclude>
+                    <Exclude id="U242429">de-alcoholised beverages </Exclude>
+                    <Exclude id="U318170">beers </Exclude>
+                    <Exclude id="U318171">non-alcoholic mixers used to make alcoholic beverages, for example, soft drinks, soda water </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241891" idRef="U241890" ncl="34">
+            <Heading>
+                <HeadingItem id="U242083">Tobacco and tobacco substitutes</HeadingItem>
+                <HeadingItem id="U318172">cigarettes and cigars</HeadingItem>
+                <HeadingItem id="U318173">electronic cigarettes and oral vaporizers for smokers</HeadingItem>
+                <HeadingItem id="U242084">smokers' articles</HeadingItem>
+                <HeadingItem id="U242085">matches</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242150">
+                <Introduction id="U318174">tobacco and articles used for smoking, as well as certain accessories and containers related to their use.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242275">tobacco substitutes, not for medical purposes</Include>
+                    <Include id="U318175">flavourings, other than essential oils, for use in electronic cigarettes, oral vaporizers for smokers</Include>
+                    <Include id="U318176">herbs for smoking</Include>
+                    <Include id="U318177">snuff</Include>
+                    <Include id="U318178">certain accessories and containers related to the use of tobacco and articles for smoking, for example, lighters for smokers, ashtrays for smokers, tobacco jars, snuff boxes, cigar humidors</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242430">tobacco-free cigarettes for medical purposes </Exclude>
+                    <Exclude id="U318179">batteries and chargers for electronic cigarettes </Exclude>
+                    <Exclude id="U318180">ashtrays for automobiles </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241893" idRef="U241892" ncl="35">
+            <Heading>
+                <HeadingItem id="U341293">Advertising</HeadingItem>
+                <HeadingItem id="U341294">business management, organization and administration</HeadingItem>
+                <HeadingItem id="U341295">office functions</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242151">
+                <Introduction id="U242187">services involving business management, operation, organization and administration of a commercial or industrial enterprise, as well as advertising, marketing and promotional services. For the purposes of classification, the sale of goods is not considered to be a service.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242276">the bringing together, for the benefit of others, of a variety of goods, excluding the transport thereof, enabling customers to conveniently view and purchase those goods; such services may be provided by retail stores, wholesale outlets, through vending machines, mail order catalogues or by means of electronic media, for example, through websites or television shopping programmes</Include>
+                    <Include id="U341304">advertising, marketing and promotional services, for example, distribution of samples, development of advertising concepts, writing and publication of publicity texts</Include>
+                    <Include id="U341305">shop window dressing</Include>
+                    <Include id="U341306">public relations services</Include>
+                    <Include id="U341307">production of teleshopping programmes</Include>
+                    <Include id="U341308">organization of trade fairs and exhibitions for commercial or advertising purposes</Include>
+                    <Include id="U341309">search engine optimization for sales promotion</Include>
+                    <Include id="U341310">commercial assistance services, for example, personnel recruitment, negotiation of business contracts for others, cost price analysis, import-export agency services</Include>
+                    <Include id="U341311">administration services relating to business transactions and financial records, for example, book-keeping, drawing up of statements of accounts, business and financial auditing, business appraisals, tax preparation and filing services</Include>
+                    <Include id="U341312">commercial administration of the licensing of the goods and services of others</Include>
+                    <Include id="U242277">services consisting of the registration, transcription, composition, compilation or systematization of written communications and registrations, and also the compilation of mathematical or statistical data</Include>
+                    <Include id="U242278">office functions, for example, appointment scheduling and reminder services, data search in computer files for others, computerized file management, telephone switchboard services</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242431">financial services, for example, financial analysis, financial management, financial sponsorship </Exclude>
+                    <Exclude id="U341296">real estate management </Exclude>
+                    <Exclude id="U341297">stock brokerage services </Exclude>
+                    <Exclude id="U341298">transportation logistics </Exclude>
+                    <Exclude id="U341299">energy auditing </Exclude>
+                    <Exclude id="U341300">graphic design of promotional materials </Exclude>
+                    <Exclude id="U341301">legal services in relation to the negotiation of contracts for others </Exclude>
+                    <Exclude id="U341302">licensing of intellectual property, legal administration of licences, copyright management </Exclude>
+                    <Exclude id="U341303">registration of domain names </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241895" idRef="U241894" ncl="36">
+            <Heading>
+                <HeadingItem id="U341203">Financial, monetary and banking services</HeadingItem>
+                <HeadingItem id="U341204">insurance services</HeadingItem>
+                <HeadingItem id="U242093">real estate services</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242152">
+                <Introduction id="U242188">services relating to banking and other financial transactions, financial valuation services, as well as insurance and real estate activities.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U341210">financial transaction and payment services, for example, exchanging money, electronic funds transfer, processing of credit card and debit card payments, issuance of travellers' cheques</Include>
+                    <Include id="U341211">financial management and research</Include>
+                    <Include id="U341212">financial appraisals, for example, jewellery, art and real estate appraisal, repair costs evaluation</Include>
+                    <Include id="U341213">cheque verification</Include>
+                    <Include id="U341214">financing and credit services, for example, loans, issuance of credit cards, hire- or lease-purchase financing</Include>
+                    <Include id="U341215">crowdfunding</Include>
+                    <Include id="U341216">safe deposit services</Include>
+                    <Include id="U341217">financial sponsorship</Include>
+                    <Include id="U341218">real estate agency services, real estate management, rental of apartments, rent collection</Include>
+                    <Include id="U341219">insurance underwriting, actuarial services</Include>
+                    <Include id="U341220">brokerage services, for example, securities, insurance and real estate brokerage, brokerage of carbon credits, pawnbrokerage</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U341205">administration services relating to business transactions and financial records, for example, book-keeping, drawing up of statements of accounts, business and financial auditing, business appraisals, tax preparation and filing services </Exclude>
+                    <Exclude id="U341206">sponsorship search, promotion of goods and services through sponsorship of sports events </Exclude>
+                    <Exclude id="U341207">cash replenishment of automated teller machines </Exclude>
+                    <Exclude id="U341208">freight brokerage, transport brokerage </Exclude>
+                    <Exclude id="U341209">quality evaluation of wool and standing timber </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241897" idRef="U241896" ncl="37">
+            <Heading>
+                <HeadingItem id="U242094">Construction services</HeadingItem>
+                <HeadingItem id="U242096">installation and repair services</HeadingItem>
+                <HeadingItem id="U331001">mining extraction, oil and gas drilling</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242153">
+                <Introduction id="U242189">services in the field of construction, as well as services involving the restoration of objects to their original condition or their preservation without altering their physical or chemical properties.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242283">construction and demolition of buildings, roads, bridges, dams or transmission lines, as well as services in the field of construction, for example, interior and exterior painting, plastering, plumbing, heating equipment installation, and roofing</Include>
+                    <Include id="U242285">shipbuilding</Include>
+                    <Include id="U242286">rental of construction tools, machines and equipment, for example, rental of bulldozers, rental of cranes</Include>
+                    <Include id="U242288">various repair services, for example, those in the fields of electricity, computer hardware, furniture, instruments, tools</Include>
+                    <Include id="U331002">various restoration services, for example, building restoration, furniture restoration and restoration of works of art</Include>
+                    <Include id="U242289">maintenance services for preserving an object in its original condition without changing any of its properties, for example, furniture maintenance, vehicle maintenance, swimming-pool maintenance and maintenance of computer hardware</Include>
+                    <Include id="U331003">cleaning of different objects, for example, windows, vehicles, clothing, as well as the laundering and pressing of clothing</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242432">physical storage of goods </Exclude>
+                    <Exclude id="U331004">transformation of an object or substance that involves a process of change in its essential properties, for example, the cutting, dyeing, fireproofing of cloth , the casting, plating, treating of metal , custom tailoring, dressmaking, embroidering , food and drink preservation </Exclude>
+                    <Exclude id="U331005">installation, maintenance and updating of computer software , creation and hosting of websites </Exclude>
+                    <Exclude id="U331006">construction drafting and architectural services </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241899" idRef="U241898" ncl="38">
+            <Heading>
+                <HeadingItem id="U242097">Telecommunications services</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242154">
+                <Introduction id="U242190">services that allow at least one party to communicate with another, as well as services for the broadcasting and transmission of data.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U331007">transmission of digital files and electronic mail</Include>
+                    <Include id="U331008">providing user access to global computer networks</Include>
+                    <Include id="U331009">radio and television broadcasting</Include>
+                    <Include id="U331010">video-on-demand transmission</Include>
+                    <Include id="U331011">providing internet chatrooms and online forums</Include>
+                    <Include id="U331012">telephone and voice mail services</Include>
+                    <Include id="U331013">teleconferencing and videoconferencing services</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242434">radio advertising </Exclude>
+                    <Exclude id="U242435">telemarketing services </Exclude>
+                    <Exclude id="U331014">content or subject matter that may be contained in the communication activity, for example, downloadable image files , providing business information via a website , providing films and television programmes, not downloadable, via video-on-demand services </Exclude>
+                    <Exclude id="U331015">services conducted using telecommunication connections, for example, online retail services for downloadable digital music , online banking </Exclude>
+                    <Exclude id="U331016">production of radio and television programmes </Exclude>
+                    <Exclude id="U331017">telecommunications technology consultancy </Exclude>
+                    <Exclude id="U331018">online social networking services </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241901" idRef="U241900" ncl="39">
+            <Heading>
+                <HeadingItem id="U242098">Transport</HeadingItem>
+                <HeadingItem id="U242099">packaging and storage of goods</HeadingItem>
+                <HeadingItem id="U242100">travel arrangement</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242155">
+                <Introduction id="U242191">services for the transport of people, animals or goods from one place to another by rail, road, water, air or pipeline and services necessarily connected with such transport, as well as the storing of goods in any kind of storage facility, warehouses or other types of building for their preservation or guarding.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242291">operation of stations, bridges, railways, ferries and other transport facilities</Include>
+                    <Include id="U341239">rental of vehicles for transportation, as well as chauffeuring and piloting services</Include>
+                    <Include id="U331019">rental services related to transport, storage and travel, for example, parking place rental, garage rental, rental of storage containers</Include>
+                    <Include id="U242293">operation of maritime tugs, unloading, operation of ports and docks, and salvaging of wrecked ships and their cargoes</Include>
+                    <Include id="U242294">packaging, bottling, wrapping and delivering of goods</Include>
+                    <Include id="U331020">replenishing vending machines and automated teller machines</Include>
+                    <Include id="U242295">services for providing information about journeys or the transport of goods by brokers and tourist agencies, as well as for providing information relating to fares, timetables and methods of transport</Include>
+                    <Include id="U242296">inspection of vehicles or goods for the purpose of transport</Include>
+                    <Include id="U331021">distribution of energy and electricity, as well as distribution and supply of water</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242436">advertising travel or transport </Exclude>
+                    <Exclude id="U242438">insurance services during the transport of people or goods </Exclude>
+                    <Exclude id="U242439">maintenance and repair of vehicles or other items connected with the transport of people or goods </Exclude>
+                    <Exclude id="U331022">conducting guided tours </Exclude>
+                    <Exclude id="U331023">electronic data storage </Exclude>
+                    <Exclude id="U242440">reservation of hotel rooms or other temporary accommodation by travel agents or brokers </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241903" idRef="U241902" ncl="40">
+            <Heading>
+                <HeadingItem id="U242101">Treatment of materials</HeadingItem>
+                <HeadingItem id="U331024">recycling of waste and trash</HeadingItem>
+                <HeadingItem id="U331025">air purification and treatment of water</HeadingItem>
+                <HeadingItem id="U331026">printing services</HeadingItem>
+                <HeadingItem id="U331027">food and drink preservation</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242156">
+                <Introduction id="U242192">services rendered by the mechanical or chemical processing, transformation or production of objects or inorganic or organic substances, including custom manufacturing services. For the purposes of classification, the production or manufacturing of goods is considered a service only in cases where it is effected for the account of another person to their order and specification. If the production or manufacturing is not being performed to fulfil an order for goods which meet the customer's particular needs, requirements, or specifications, then it is generally ancillary to the maker's primary commercial activity or goods in trade. If the substance or object is marketed to third parties by the person who processed, transformed or produced it, then this would generally not be considered a service.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242297">transformation of an object or substance and any process involving a change in its essential properties, for example, dyeing a garment; such transformation services are also classified in Class 40 if they are provided in the framework of repair or maintenance work, for example, chromium plating of motor vehicle bumpers</Include>
+                    <Include id="U242298">services of material treatment which may be present during the production of any substance or object other than a building, for example, services which involve cutting, shaping, polishing by abrasion or metal coating</Include>
+                    <Include id="U331028">joining of materials, for example, soldering or welding</Include>
+                    <Include id="U331029">processing and treatment of foodstuffs, for example, fruit crushing, flour milling, food and drink preservation, food smoking, freezing of foods</Include>
+                    <Include id="U242299">custom manufacturing of goods to the order and specification of others (bearing in mind that certain offices require that the goods produced be indicated), for example, custom manufacturing of automobiles</Include>
+                    <Include id="U331030">services of a dental technician</Include>
+                    <Include id="U331031">quilting, embroidering, custom tailoring, textile dyeing, applying finishes to textiles</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242441">services that do not entail a change in the essential properties of the object or substance, for example, furniture maintenance or repair </Exclude>
+                    <Exclude id="U331032">services in the field of construction, for example, painting and plastering </Exclude>
+                    <Exclude id="U331033">cleaning services, for example, laundering, window cleaning, cleaning of interior and exterior surfaces of buildings </Exclude>
+                    <Exclude id="U331034">rustproofing, for example, anti-rust treatment for vehicles </Exclude>
+                    <Exclude id="U242442">certain customization services, for example, the custom painting of automobiles </Exclude>
+                    <Exclude id="U331035">decorating of food, food sculpting </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241905" idRef="U241904" ncl="41">
+            <Heading>
+                <HeadingItem id="U242102">Education</HeadingItem>
+                <HeadingItem id="U242103">providing of training</HeadingItem>
+                <HeadingItem id="U242104">entertainment</HeadingItem>
+                <HeadingItem id="U242105">sporting and cultural activities</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242157">
+                <Introduction id="U242193">services consisting of all forms of education or training, services having the basic aim of the entertainment, amusement or recreation of people, as well as the presentation of works of visual art or literature to the public for cultural or educational purposes.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U341250">organization of exhibitions for cultural or educational purposes, arranging and conducting of conferences, congresses and symposiums</Include>
+                    <Include id="U341251">translation and language interpretation services</Include>
+                    <Include id="U341252">publication of books and texts, other than publicity texts</Include>
+                    <Include id="U341253">news reporters services, photographic reporting</Include>
+                    <Include id="U341254">photography</Include>
+                    <Include id="U341255">film direction and production services, other than for advertising films</Include>
+                    <Include id="U341256">cultural, educational or entertainment services provided by amusement parks, circuses, zoos, art galleries and museums</Include>
+                    <Include id="U341257">sports and fitness training services</Include>
+                    <Include id="U341258">training of animals</Include>
+                    <Include id="U341259">online gaming services</Include>
+                    <Include id="U341260">gambling services, organization of lotteries</Include>
+                    <Include id="U341261">ticket reservation and booking services for entertainment, educational and sporting events</Include>
+                    <Include id="U341262">certain writing services, for example, screenplay writing, songwriting</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U341241">organization of exhibitions for commercial or advertising purposes </Exclude>
+                    <Exclude id="U341242">writing and publication of publicity texts </Exclude>
+                    <Exclude id="U341243">news agency services </Exclude>
+                    <Exclude id="U341244">radio and television broadcasting </Exclude>
+                    <Exclude id="U341245">videoconferencing services </Exclude>
+                    <Exclude id="U341246">technical writing </Exclude>
+                    <Exclude id="U341247">day-nursery and crèche services </Exclude>
+                    <Exclude id="U341248">health spa services </Exclude>
+                    <Exclude id="U341249">planning and arranging wedding ceremonies </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241907" idRef="U241906" ncl="42">
+            <Heading>
+                <HeadingItem id="U242106">Scientific and technological services and research and design relating thereto</HeadingItem>
+                <HeadingItem id="U242107">industrial analysis, industrial research and industrial design services</HeadingItem>
+                <HeadingItem id="U331036">quality control and authentication services</HeadingItem>
+                <HeadingItem id="U242108">design and development of computer hardware and software</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242158">
+                <Introduction id="U242194">services provided by persons in relation to the theoretical and practical aspects of complex fields of activities, for example, scientific laboratory services, engineering, computer programming, architectural services or interior design.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242303">services of engineers and scientists who undertake evaluations, estimates, research and reports in the scientific and technological fields, including technological consultancy</Include>
+                    <Include id="U300265">computer and technology services for securing computer data and personal and financial information and for the detection of unauthorized access to data and information, for example, computer virus protection services, data encryption services, electronic monitoring of personally identifying information to detect identity theft via the internet</Include>
+                    <Include id="U331037">software as a service (SaaS), platform as a service (PaaS)</Include>
+                    <Include id="U242304">scientific research services for medical purposes</Include>
+                    <Include id="U331038">architectural and urban planning services</Include>
+                    <Include id="U331039">certain design services, for example, industrial design, design of computer software and systems, interior design, packaging design, graphic arts design, dress designing</Include>
+                    <Include id="U331040">surveying (engineering)</Include>
+                    <Include id="U331041">oil, gas and mining exploration services</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U331042">certain research services, for example, business research , marketing research , financial research , research in the field of education , genealogical research , legal research </Exclude>
+                    <Exclude id="U331043">business auditing </Exclude>
+                    <Exclude id="U242444">computerized file management </Exclude>
+                    <Exclude id="U242445">financial evaluation services </Exclude>
+                    <Exclude id="U242446">mining extraction, oil and gas drilling </Exclude>
+                    <Exclude id="U242447">installation, maintenance and repair of computer hardware </Exclude>
+                    <Exclude id="U331044">sound engineering services </Exclude>
+                    <Exclude id="U331045">certain design services, for example, landscape design </Exclude>
+                    <Exclude id="U242449">medical and veterinary services </Exclude>
+                    <Exclude id="U242451">legal services </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241909" idRef="U241908" ncl="43">
+            <Heading>
+                <HeadingItem id="U242109">Services for providing food and drink</HeadingItem>
+                <HeadingItem id="U242110">temporary accommodation</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242159">
+                <Introduction id="U242195">services provided in relation to the preparation of food and drink for consumption, as well as services for providing temporary accommodation.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U242305">temporary accommodation reservations, for example, hotel reservations</Include>
+                    <Include id="U242306">boarding for animals</Include>
+                    <Include id="U341333">rental of meeting rooms, tents and transportable buildings</Include>
+                    <Include id="U341334">retirement home services</Include>
+                    <Include id="U341335">day-nursery and crèche services</Include>
+                    <Include id="U341336">decorating of food, food sculpting</Include>
+                    <Include id="U341337">rental of cooking apparatus</Include>
+                    <Include id="U341338">rental of chairs, tables, table linen, glassware</Include>
+                    <Include id="U341339">hookah lounge services</Include>
+                    <Include id="U341340">personal chef services</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U342114">business management of hotels </Exclude>
+                    <Exclude id="U342115">rental services for real estate, such as houses or flats, for residential use </Exclude>
+                    <Exclude id="U342116">housekeeping (cleaning) services </Exclude>
+                    <Exclude id="U342117">travel and transport reservation services </Exclude>
+                    <Exclude id="U342118">beer brewing and wine making for others, custom manufacturing of bread </Exclude>
+                    <Exclude id="U342119">food smoking, food and drink preservation </Exclude>
+                    <Exclude id="U342120">educational, instruction and entertainment services, including those that might involve ancillary lodging or food and drink, provided by, for example, boarding schools, nursery schools, sport camps, discotheques and nightclubs </Exclude>
+                    <Exclude id="U342121">providing museum facilities </Exclude>
+                    <Exclude id="U342122">convalescent home and rest home services </Exclude>
+                    <Exclude id="U342123">babysitting, pet sitting </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241911" idRef="U241910" ncl="44">
+            <Heading>
+                <HeadingItem id="U242111">Medical services</HeadingItem>
+                <HeadingItem id="U242112">veterinary services</HeadingItem>
+                <HeadingItem id="U242113">hygienic and beauty care for human beings or animals</HeadingItem>
+                <HeadingItem id="U242114">agriculture, aquaculture, horticulture and forestry services</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242160">
+                <Introduction id="U242196">medical care, including alternative medicine, hygienic and beauty care given by persons or establishments to human beings and animals, as well as services relating to the fields of agriculture, aquaculture, horticulture and forestry.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U331046">hospital services</Include>
+                    <Include id="U331047">telemedicine services</Include>
+                    <Include id="U331048">dentistry, optometry and mental health services</Include>
+                    <Include id="U242307">medical clinic services and medical analysis services for diagnostic and treatment purposes provided by medical laboratories, such as x-ray examinations and taking of blood samples</Include>
+                    <Include id="U331049">therapy services, for example, physiotherapy and speech therapy</Include>
+                    <Include id="U331050">pharmacy advice and preparation of prescriptions by pharmacists</Include>
+                    <Include id="U331051">blood bank and human tissue bank services</Include>
+                    <Include id="U331052">convalescent home and rest home services</Include>
+                    <Include id="U331053">dietary and nutritional advice</Include>
+                    <Include id="U331054">health spa services</Include>
+                    <Include id="U242308">artificial insemination and in vitro fertilization services</Include>
+                    <Include id="U242310">animal breeding</Include>
+                    <Include id="U331055">animal grooming</Include>
+                    <Include id="U331056">body piercing and tattooing</Include>
+                    <Include id="U242311">services relating to gardening, for example, plant nursery services, landscape design, landscape gardening, lawn care</Include>
+                    <Include id="U242312">services relating to floral art, for example, flower arranging, wreath making</Include>
+                    <Include id="U331057">weed killing, vermin and pest control for agriculture, aquaculture, horticulture and forestry</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U242458">vermin and pest control, other than for agriculture, aquaculture, horticulture and forestry </Exclude>
+                    <Exclude id="U242459">installation and repair services for irrigation devices </Exclude>
+                    <Exclude id="U242460">ambulance transport </Exclude>
+                    <Exclude id="U242461">slaughtering of animals and taxidermy </Exclude>
+                    <Exclude id="U242462">timber felling and processing </Exclude>
+                    <Exclude id="U242463">animal training services </Exclude>
+                    <Exclude id="U242464">health clubs for physical exercise </Exclude>
+                    <Exclude id="U242465">scientific research services for medical purposes </Exclude>
+                    <Exclude id="U242466">boarding for animals </Exclude>
+                    <Exclude id="U242467">retirement homes </Exclude>
+                    <Exclude id="U331058">funerary undertaking </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+        <ClassTexts id="U241913" idRef="U241912" ncl="45">
+            <Heading>
+                <HeadingItem id="U342082">Legal services</HeadingItem>
+                <HeadingItem id="U342083">security services for the physical protection of tangible property and individuals</HeadingItem>
+                <HeadingItem id="U342084">dating services, online social networking services</HeadingItem>
+                <HeadingItem id="U342085">funerary services; babysitting</HeadingItem>
+            </Heading>
+            <ExplanatoryNote id="U242161">
+                <Introduction id="U339531">legal and security services, as well as certain personal and social services rendered by others to meet the needs of individuals.</Introduction>
+                <IncludesInParticular>
+                    <Include id="U339540">arbitration and mediation services</Include>
+                    <Include id="U339541">registration of domain names</Include>
+                    <Include id="U339542">legal and regulatory compliance auditing services</Include>
+                    <Include id="U339543">investigation and surveillance services relating to the physical safety of individuals and security of tangible property, for example, guard services, detective agency services, personal background investigations, security screening of baggage</Include>
+                    <Include id="U339544">services provided to individuals in relation to social events, for example, chaperoning, planning and arranging of wedding ceremonies</Include>
+                    <Include id="U339545">conducting religious ceremonies, burial services</Include>
+                    <Include id="U339546">pet sitting, dog walking services</Include>
+                    <Include id="U339547">clothing rental</Include>
+                </IncludesInParticular>
+                <ExcludesInParticular>
+                    <Exclude id="U339532">certain rental services rendered by others to meet the needs of individuals, where the services provided by means of the rented objects belong to another class, for example, rental of apartments , car rental , rental of temporary accommodation </Exclude>
+                    <Exclude id="U339533">escorting of travellers </Exclude>
+                    <Exclude id="U339534">secure transport, for example, guarded transport of valuables, armoured car transport </Exclude>
+                    <Exclude id="U339535">party planning </Exclude>
+                    <Exclude id="U339536">services consisting of all forms of education, including religious education </Exclude>
+                    <Exclude id="U339537">services having the basic aim of the entertainment, amusement or recreation of people </Exclude>
+                    <Exclude id="U339538">computer and internet security consultancy and data encryption services </Exclude>
+                    <Exclude id="U339539">providing medical, hygienic or beauty care for human beings or animals </Exclude>
+                </ExcludesInParticular>
+            </ExplanatoryNote>
+        </ClassTexts>
+    </ClassesTexts>
+</ClassificationTexts>
